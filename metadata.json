@@ -1,0 +1,6 @@
+{
+  "name": "História Rioeduca - Plataforma de Estudos & Quizzes",
+  "description": "Plataforma interativa de estudos de História com o currículo do Rioeduca (6º ao 9º ano e História do Rio), resumos didáticos aprofundados, quizzes com tutoria pedagógica adaptativa para erros e linha do tempo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
